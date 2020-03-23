@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheicocoug.erinvarey.ca/sitemap.xml
